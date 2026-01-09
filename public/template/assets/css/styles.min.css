@@ -16038,12 +16038,12 @@ textarea.form-control-lg {
 }
 @media (max-width: 991.98px) {
   .app-header {
-    top: 150px;
+    /* top: 150px; */
   }
 }
 @media (max-width: 575.98px) {
   .app-header {
-    top: 104px;
+    /* top: 104px; */
   }
 }
 .app-header .container-fluid, .app-header .container-sm, .app-header .container-md, .app-header .container-lg, .app-header .container-xl, .app-header .container-xxl {
@@ -16132,22 +16132,22 @@ body {
   margin: 0 auto;
   padding: 24px;
   transition: 0.2s ease-in;
-  padding-top: 180px;
+  /* padding-top: 180px; */
 }
 @media (max-width: 991.98px) {
   .body-wrapper .container-fluid, .body-wrapper .container-sm, .body-wrapper .container-md, .body-wrapper .container-lg, .body-wrapper .container-xl, .body-wrapper .container-xxl {
-    padding-top: 250px;
+    /* padding-top: 250px; */
   }
 }
 @media (max-width: 575.98px) {
   .body-wrapper .container-fluid, .body-wrapper .container-sm, .body-wrapper .container-md, .body-wrapper .container-lg, .body-wrapper .container-xl, .body-wrapper .container-xxl {
-    padding-top: 205px;
+    /* padding-top: 205px; */
   }
 }
 
 @media (max-width: 767.98px) {
   .body-wrapper > .container-fluid, .body-wrapper > .container-sm, .body-wrapper > .container-md, .body-wrapper > .container-lg, .body-wrapper > .container-xl, .body-wrapper > .container-xxl {
-    padding: 30px 20px;
+    /* padding: 30px 20px; */
   }
 }
 .simplebar-scrollbar:before {
